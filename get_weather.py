@@ -4,7 +4,7 @@ from openmeteo_sdk.Variable import Variable
 from openmeteo_sdk.Aggregation import Aggregation
 import pandas as pd
 import numpy as np
-def weather_values(city = "Wiesbaden",timespan = 1):
+def weather_values(city = "Taunusstein",timespan = 1):
     diff_latitudes = {
         "Wiesbaden": {"latitude": 50.0826, "longitude": 8.2493},
         "Taunusstein": {"latitude":50.1499, "longitude":8.1521},
