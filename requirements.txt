@@ -1,0 +1,27 @@
+# === Audio & Signal Processing ===
+librosa==0.10.2
+soundfile==0.12.1
+pyaudio==0.2.14
+scipy==1.13.1
+IPython==8.26.0
+
+# === Machine Learning & Deep Learning ===
+tensorflow==2.16.1
+keras==3.3.3
+scikit-learn==1.5.1
+numpy==1.26.4
+pandas==2.2.2
+
+# === Visualization ===
+matplotlib==3.9.1
+
+# === Web & API Access ===
+openmeteo-requests==1.0.0
+openmeteo-sdk==1.10.0
+yt-dlp==2024.8.6
+selenium==4.23.1
+webbrowser-python==0.5.5
+
+# === Utilities ===
+os-sys==2.1.4
+warnings==0.1.0
